@@ -28,8 +28,8 @@
 ## Output:
 
 ```
- Name: G.Chethan Kumar
- Register Number: 212222240022
+ Name: SHALINI
+ Register Number: 212222240096
 ```
 ![image](https://github.com/Gchethankumar/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/118348224/baadaee6-b14f-4861-958c-df4dfdd3f332)
 
