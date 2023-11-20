@@ -5,7 +5,8 @@
 ## AIM:
 ### To simulate the construction of polar 3D printer and to get in-depth knowledge of mechatronics of polar 3D printers.
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/113594316/b551f195-9877-49a2-99bb-a9efcfb3381a)
+![image](https://github.com/shalini-venkatesan/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/118720291/c1e12e04-d638-48bb-a421-62af51430e04)
+
 
 ## REQUIREMENTS:
 ### ●	System - Windows 7 or higher, 1 GB RAM.
@@ -26,7 +27,8 @@
 ### 3.	Move the z-axis slider and observe the movement of the z-axis assembly.
 
 ## OUTPUT:
-![Screenshot 2023-05-20 210119](https://github.com/AsinVardhini/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/119417735/696f9302-fbac-4d8c-b252-93167b4802f2)
+![image](https://github.com/shalini-venkatesan/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/118720291/5ef0d499-e090-4d6b-994a-6dd2d43d2c3c)
+
 
 ### Assembly of Polar 3D Printer
 
@@ -100,7 +102,8 @@ Filament :
 
 ### Playing with Axes
 
-![Screenshot 2023-05-20 210159](https://github.com/AsinVardhini/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/119417735/5685d931-79f1-4e63-bc3c-68d2c092871e)
+![image](https://github.com/shalini-venkatesan/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/118720291/89bb4156-b1ab-410b-a5cc-5946090fbab0)
+
 
 
 ### Name: SHALINI VENKATESAN
